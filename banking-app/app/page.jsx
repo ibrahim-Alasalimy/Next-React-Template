@@ -1,7 +1,6 @@
 import React from 'react';
 
 
-
 const HomePage = () => {
   return (
     <div className="max-w-3xl mx-auto p-6 bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md transition duration-300 ease-in-out">
