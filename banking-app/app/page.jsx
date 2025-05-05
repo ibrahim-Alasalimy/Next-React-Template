@@ -5,7 +5,7 @@ const HomePage = () => {
     <div className="max-w-3xl mx-auto p-6 bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md transition duration-300 ease-in-out">
       <header className="text-center mb-6">
         <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">
-         ide IDE
+         devri IDE
         </h1>
         <p className="text-lg text-gray-600 dark:text-gray-300">
           Create a modern banking application using Next.js, Node.js, and React
